@@ -1,0 +1,16 @@
+{
+  "name": "flashbots-transaction-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flashbotmain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "@flashbots/ethers-provider-bundle": "^0.6.1"
+  }
+}
